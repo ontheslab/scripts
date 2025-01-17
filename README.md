@@ -1,2 +1,2 @@
 # scripts
-Scripting collection
+Scripting collection (PowerShell, bash, Python)
